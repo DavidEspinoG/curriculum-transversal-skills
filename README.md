@@ -65,9 +65,9 @@ Hello Microverse is an small document made with  educational purposes
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/DavidEspinoG)
-- Twitter: [@twitterhandle](https://twitter.com/DavidEspinoG)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/davidespinog)
+- GitHub: [@DavidEspinoG](https://github.com/DavidEspinoG)
+- Twitter: [@DavidEspinoG](https://twitter.com/DavidEspinoG)
+- LinkedIn: [/davidespinog](https://linkedin.com/in/davidespinog)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -80,7 +80,5 @@ Hello Microverse is an small document made with  educational purposes
 ## 📝 License <a id="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
